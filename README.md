@@ -7,3 +7,4 @@ Kolejna linia, testuję gałąź testową 1.
 Gałąź testowa 2 - pierwsza zmiana.
 
 Gałąź testowa 2 - druga zmiana.
+Commit na potrzeby zajęć 3 - autouwierzytelnienie.
