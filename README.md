@@ -8,3 +8,5 @@ Gałąź testowa 2 - pierwsza zmiana.
 
 Gałąź testowa 2 - druga zmiana.
 Commit na potrzeby zajęć 3 - autouwierzytelnienie.
+
+Kolejna zmiana po wprowadzeniu autentykacji.
